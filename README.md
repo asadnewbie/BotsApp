@@ -29,7 +29,14 @@ Here's a tutorial to set up BotsApp on your own account in *less than 3 minutes.
 
 [![Join WhatsApp Group](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://www.youtube.com/watch?v=tGrjEZ3roY0&ab_channel=BotsApp)
 
-## Deployment
+## Deployment#
+# 5 https://heroku.com/deploy?template=https://github.com/asadnewbie/BotsApp  copy this url and change Aj-fx with your github username and go<br>
+
+  <p align="center">
+
+  <a href="https://github.com/asadnewbie/BotsApp">
+
+   <p align="center">
 
 ### Easiest Way
 
